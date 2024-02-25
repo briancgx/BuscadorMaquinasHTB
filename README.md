@@ -9,7 +9,7 @@ Este es mi primer proyecto utilizando Bash Scripting, inspirado en el curso de S
 Para utilizar el buscador de máquinas HTB, primero debes clonar el repositorio a tu máquina local usando el siguiente comando:
 
 ```bash
-git clone git@github.com:briancgx/BuscadorMaquinasHTB.git
+git clone https://github.com/briancgx/BuscadorMaquinasHTB.git
 ```
 Asegúrate de tener git instalado en tu sistema para poder ejecutar el comando de clonación.
 
