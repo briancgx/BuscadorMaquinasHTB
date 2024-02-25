@@ -29,12 +29,13 @@ Para ejecutar el script, utiliza el siguiente comando:
 
 ## Uso
 El script ofrece varias opciones para buscar máquinas de HTB resueltas por S4vitar:
-u - Actualizar archivos
-n - Buscar por nombre de máquina
-i - Buscar por dirección IP
-o - Buscar por sistema operativo
-s - Buscar por habilidad
-c - Buscar por certificación
-y - Obtener enlace a la solución de la máquina
-d - Buscar por dificultad (Fácil, Media, Difícil, Insane)
-h - Mostrar este panel de ayuda
+- u - Actualizar archivos
+- n - Buscar por nombre de máquina
+- i - Buscar por dirección IP
+- o - Buscar por sistema operativo
+- s - Buscar por habilidad
+- c - Buscar por certificación
+- y - Obtener enlace a la solución de la máquina
+- d - Buscar por dificultad (Fácil, Media, Difícil, Insane)
+- h - Mostrar este panel de ayuda
+
